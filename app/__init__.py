@@ -1,0 +1,1 @@
+# Python recognizes the app directory as a package
